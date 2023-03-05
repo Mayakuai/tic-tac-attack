@@ -1,5 +1,6 @@
 *, *::after, *::before {
   box-sizing: border-box;
+  
 }
 
 :root {
@@ -9,6 +10,8 @@
 
 body {
   margin: 0;
+  font-family: Arial,sans-serif;
+  background: linear-gradient(to right, #FEAC5E, #C779D0, #4BC0C8);
 }
 
 .board {
